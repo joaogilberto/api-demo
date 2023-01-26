@@ -1,0 +1,6 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "byjg/restserver": "dev-bump"
+  }
+}
